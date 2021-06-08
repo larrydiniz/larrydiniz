@@ -30,7 +30,7 @@ Me chamo Larissa, sou Desenvolvedora Fullstack e Designer de Interfaces.
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydiniz&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=larrydiniz&theme=dracula"/></td>
+        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=larrydiniz&theme=dracula"/></td>
     </tr>   
 </table>
 </center> 
