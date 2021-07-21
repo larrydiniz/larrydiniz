@@ -1,13 +1,13 @@
-### Olá 👋
+### Olá, sou a Larissa 👋
 
-Me chamo Larissa, sou Desenvolvedora Fullstack e Designer de Interfaces.
+Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como Designer de Interfaces.
 
 ### Sobre mim
 
-🌱 Atualmente estudando React e Next.js;
-👩🏽‍🎓 Estou no ultimo semestre do curso superior em Design de Midias Digitais;
-🎨 Costumo desenhar nas horas vagas;
-😄 Meus pronomes são Ela/Dela;
+🌱 Atualmente estudando React e Next.js; <br/>
+👩🏽‍🎓 Estou no ultimo semestre do curso superior em Design de Mídias Digitais; <br/>
+🎨 Costumo desenhar nas horas vagas; <br/>
+😄 Meus pronomes são Ela/Dela; <br/>
 💬 Sempre fico feliz em ajudar, então pode falar comigo.
 
 ### Redes
