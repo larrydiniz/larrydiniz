@@ -4,11 +4,11 @@ Me chamo Larissa, sou Desenvolvedora Fullstack e Designer de Interfaces.
 
 ### Sobre mim
 
-- 🌱 Atualmente estudando React e Vue.js;
-- 👩🏽‍🎓 Estou no ultimo semestre do curso superior em Design de Midias Digitais;
-- 🎨 Costumo desenhar nas horas vagas;
-- 😄 Meus pronomes são Ela/Dela;
-- 💬 Sempre fico feliz em ajudar, então pode falar comigo.
+🌱 Atualmente estudando React e Next.js;
+👩🏽‍🎓 Estou no ultimo semestre do curso superior em Design de Midias Digitais;
+🎨 Costumo desenhar nas horas vagas;
+😄 Meus pronomes são Ela/Dela;
+💬 Sempre fico feliz em ajudar, então pode falar comigo.
 
 ### Redes
 
