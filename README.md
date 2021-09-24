@@ -7,7 +7,7 @@ Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como D
 🌱 Atualmente estudando React e Next.js; <br/>
 👩🏽‍🎓 Estou no ultimo semestre do curso superior em Design de Mídias Digitais; <br/>
 🎨 Costumo desenhar nas horas vagas; <br/>
-😄 Meus pronomes são Ela/Dela; <br/>
+😄 Meus pronomes são ela/dela; <br/>
 💬 Sempre fico feliz em ajudar, então pode falar comigo.
 
 ### Redes
