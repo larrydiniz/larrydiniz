@@ -1,6 +1,6 @@
 ### Olá, sou a Larissa 👋
 
-Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como Designer de Interfaces.
+Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como Desenvolvedora Frontend na Ambev Tech <🍻/>
 
 ### Sobre mim
 
@@ -13,8 +13,9 @@ Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como D
 ### Redes
 
 <a href="https://www.linkedin.com/in/larrydiniz/">
-  <code><img alt="My linkedin" width="28" src="https://image.flaticon.com/icons/png/512/255/255319.png" /></code>
+  
 </a>
+![image](https://user-images.githubusercontent.com/66534830/180829229-4873e9d3-950b-464e-8b07-7106373f75b7.png)
 
 <a href="mailto:larissa.diniz_23@hotmail.com">
   <code><img alt="My e-mail" width="32" src="https://image.flaticon.com/icons/png/512/893/893257.png" /></code>
