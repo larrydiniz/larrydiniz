@@ -5,7 +5,7 @@ Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como D
 ### Sobre mim
 
 🌱 Atualmente estudando React e Next.js; <br/>
-👩🏽‍🎓 Estou no ultimo semestre do curso superior em Design de Mídias Digitais; <br/>
+👩🏽‍🎓 Sou formada Designer de Midias Digitais pela Fatec Barueri; <br/>
 🎨 Costumo desenhar nas horas vagas; <br/>
 😄 Meus pronomes são ela/dela; <br/>
 💬 Sempre fico feliz em ajudar, então pode falar comigo.
