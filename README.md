@@ -13,15 +13,15 @@ Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como D
 ### Redes
 
 <a href="https://www.linkedin.com/in/larrydiniz/">
-  <code><img alt="My LinkedIn" width="32" src="https://user-images.githubusercontent.com/66534830/180829229-4873e9d3-950b-464e-8b07-7106373f75b7.png" /></code>
+  <code><img alt="My LinkedIn" width="32" src="https://github.com/larrydiniz/larrydiniz/assets/66534830/779c0bd8-762d-402b-8bbb-1e22c33d7fc3" /></code>
 </a>
 
-<a href="mailto:larissa.diniz_23@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://user-images.githubusercontent.com/66534830/180830456-63783cd1-2668-41d8-8097-871c9bcf249e.png" /></code>
+<a href="mailto:alarissadiniz@outlook.com">
+  <code><img alt="My e-mail" width="32" src="https://github.com/larrydiniz/larrydiniz/assets/66534830/013e9228-77ce-477a-89d4-8f7d7b766df2" /></code>
 </a>
 
 <a href="https://www.behance.net/larrydiniz">
-  <code><img alt="My e-mail" width="28" src="https://user-images.githubusercontent.com/66534830/180830586-b4682a96-2dab-4cde-a4d9-950fd404e093.png" /></code>
+  <code><img alt="My e-mail" width="32" src="https://github.com/larrydiniz/larrydiniz/assets/66534830/b4bb094d-b0aa-47c9-9e60-8370c5d45cc4" /></code>
 </a>
 
 ### 
