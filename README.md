@@ -1,6 +1,6 @@
 ### Olá, sou a Larissa 👋
 
-Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como Desenvolvedora Frontend na Ambev Tech <🍻/>
+Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, mas atuo como Desenvolvedora Frontend
 
 ### Sobre mim
 
@@ -29,7 +29,7 @@ Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, e atuo como D
 <center>
 <table>
     <tr>
-        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=larrydiniz&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Larissa's github stats" /></td>
+        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=larrydiniz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" alt="Larissa's github stats" /></td>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydiniz&hide=html&layout=compact&theme=dracula&hide_border=true" /></td>
     </tr>   
 </table>
