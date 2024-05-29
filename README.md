@@ -1,14 +1,11 @@
 ### Olá, sou a Larissa 👋
-
-Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, mas atuo como Desenvolvedora Frontend
-
-### Sobre mim
-
-🌱 Atualmente estudando React e Next.js; <br/>
-👩🏽‍🎓 Formada Designer de Midias Digitais pela Fatec Barueri; <br/>
-🎨 Costumo desenhar nas horas vagas; <br/>
+Atuo como Desenvolvedora Frontend React.<br/>
+🌱 Atualmente estudando Node.js, Next.js e React Native; <br/>
+🎯 Cursando MBA Fullstack na Sirius em parceria com a Rocketseat;<br/>
+👩🏽‍🎓 Formada Designer de Midias Digitais pela Fatec Barueri e Desenvolvedora Fullstack Java pela Digital House Brasil; <br/>
 😄 Meus pronomes são ela/dela; <br/>
-💬 Sempre fico feliz em ajudar, então pode falar comigo.
+🎨 Costumo desenhar nas horas vagas; <br/>
+💬 Sempre fico feliz em ajudar, então pode falar comigo!
 
 ### Redes
 
@@ -29,8 +26,8 @@ Me formei Desenvolvedora Fullstack Java pela Digital House Brasil, mas atuo como
 <center>
 <table>
     <tr>
-        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=larrydiniz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" alt="Larissa's github stats" /></td>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydiniz&hide=html&layout=compact&theme=dracula&hide_border=true" /></td>
+        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=larrydiniz&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" alt="Larissa's github stats" /></td>
     </tr>   
 </table>
 </center> 
