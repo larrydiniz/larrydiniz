@@ -4,7 +4,7 @@ Atuo como Desenvolvedora Frontend React.<br/>
 🎯 Cursando MBA Fullstack na Sirius em parceria com a Rocketseat;<br/>
 👩🏽‍🎓 Formada Designer de Midias Digitais pela Fatec Barueri e Desenvolvedora Fullstack Java pela Digital House Brasil; <br/>
 😄 Meus pronomes são ela/dela; <br/>
-🎨 Costumo desenhar nas horas vagas; <br/>
+🎨 Gosto de desenhar nas horas vagas; <br/>
 💬 Sempre fico feliz em ajudar, então pode falar comigo!
 
 ### Redes
