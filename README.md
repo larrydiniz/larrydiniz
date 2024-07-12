@@ -3,7 +3,7 @@ Atuo como Desenvolvedora Frontend React.<br/>
 🌱 Atualmente estudando Node.js, Next.js e React Native; <br/>
 🎯 Cursando MBA Fullstack na Sirius em parceria com a Rocketseat;<br/>
 👩🏽‍🎓 Formada Designer de Midias Digitais pela Fatec Barueri e Desenvolvedora Fullstack Java pela Digital House Brasil; <br/>
-🎨 Gosto de desenhar nas horas vagas; <br/>
+🎨 Gosto de desenhar, estudar música e ler nas horas vagas; <br/>
 💬 Sempre fico feliz em ajudar, então pode falar comigo!
 
 ### Redes
