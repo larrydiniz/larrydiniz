@@ -1,5 +1,5 @@
 ### Olá, sou a Larissa 👋
-No momento, atuo como Desenvolvedora Frontend React, mas sou especialista em JavaScript.<br/>
+No momento atuo como Desenvolvedora Frontend React, mas sou uma Desenvolvedoa FullStack JavaScript.<br/>
 🌱 Atualmente estudando Next.js, Node.js e Mobile com React Native; <br/>
 🎯 Pós graduada no MBA Fullstack da Rocketseat;<br/>
 👩🏽‍🎓 Formada Designer de Midias Digitais pela Fatec Barueri e Desenvolvedora Fullstack Java pela Digital House Brasil; <br/>
