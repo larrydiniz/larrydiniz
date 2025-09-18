@@ -20,6 +20,4 @@ No momento atuo como Desenvolvedora Frontend React, mas sou uma Desenvolvedoa Fu
   <code><img alt="My e-mail" width="32" src="https://github.com/larrydiniz/larrydiniz/assets/66534830/b4bb094d-b0aa-47c9-9e60-8370c5d45cc4" /></code>
 </a>
 
-### 
-| <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydiniz&hide=html&layout=compact&theme=dracula&hide_border=true" /> |
-| ------------- |
+
