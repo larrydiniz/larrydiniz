@@ -6,7 +6,7 @@ Sou Desenvolvedora FullStack JavaScript, com foco atual em Frontend utilizando R
 💻 Formada em Desenvolvimento FullStack Java pela Digital House Brasil; <br/>
 🎨 Nas horas vagas gosto de desenhar, estudar música e ler; <br/>
 
-💬 Vamos conversar?
+💬 **Vamos conversar?**
 Fico feliz em ajudar e trocar ideias sobre tecnologia, então sinta-se à vontade para entrar em contato comigo!
 
 ### Redes
