@@ -4,7 +4,7 @@ Sou Desenvolvedora FullStack JavaScript, com foco atual em Frontend utilizando R
 🎯 Pós graduada no MBA Fullstack da Rocketseat; <br/>
 👩🏽‍🎓 Graduada em Design de Midias Digitais pela Fatec Barueri; <br/>
 💻 Formada em Desenvolvimento FullStack Java pela Digital House Brasil; <br/>
-🎨 Nas horas vagas gosto de desenhar, estudar música e ler; <br/>
+🎨 Nas horas vagas gosto de desenhar, estudar música e ler. <br/>
 
 💬 **Vamos conversar?**
 Fico feliz em ajudar e em conversar sobre tecnologia, então sinta-se à vontade para entrar em contato comigo!
