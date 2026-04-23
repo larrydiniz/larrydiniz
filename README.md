@@ -7,7 +7,7 @@ Sou Desenvolvedora FullStack JavaScript, com foco atual em Frontend utilizando R
 🎨 Nas horas vagas gosto de desenhar, estudar música e ler; <br/>
 
 💬 **Vamos conversar?**
-Fico feliz em ajudar e trocar ideias sobre tecnologia, então sinta-se à vontade para entrar em contato comigo!
+Fico feliz em ajudar e em conversar sobre tecnologia, então sinta-se à vontade para entrar em contato comigo!
 
 ### Redes
 
