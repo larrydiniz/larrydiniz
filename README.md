@@ -1,9 +1,9 @@
 ### Olá, sou a Larissa 👋
-Sou Desenvolvedora FullStack JavaScript, com foco atual em Frontend utilizando React e Nextjs. <br/>
-🌱 No momento estudando Node.js e Mobile com React Native; <br/>
-🎯 Pós graduada no MBA Fullstack da Rocketseat; <br/>
-👩🏽‍🎓 Graduada em Design de Midias Digitais pela Fatec Barueri; <br/>
-💻 Formada em Desenvolvimento FullStack Java pela Digital House Brasil; <br/>
+Sou Desenvolvedora Full-Stack JavaScript, com foco atual em Front-End utilizando React e Nextjs. <br/>
+🌱 Atualmente estudando Node.js e Mobile com React Native; <br/>
+🎯 Pós-graduada no MBA Full-Stack da Sirius com a Rocketseat; <br/>
+👩🏽‍🎓 Graduada em Design de Mídias Digitais pela Fatec Barueri; <br/>
+💻 Formada em Desenvolvimento Full-Stack Java pela Digital House Brasil; <br/>
 🎨 Nas horas vagas gosto de desenhar, estudar música e ler. <br/>
 
 💬 **Vamos conversar?**
